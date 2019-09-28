@@ -18,3 +18,5 @@ for i in result:
 
 words = jieba.cut(allText)
 print("Full Mode: " + "/ ".join(words))
+
+# need to add wordcloud function
